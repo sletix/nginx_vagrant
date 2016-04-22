@@ -1,0 +1,4 @@
+[submodule "cookbooks/nginx"]
+	path = cookbooks/nginx
+	url = https://github.com/sletix/nginx.git
+	branch = ngx_openresty

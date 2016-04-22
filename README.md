@@ -1,0 +1,4 @@
+### Install
+
+      $ vagrant up
+      # enjoy
